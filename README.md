@@ -15,8 +15,9 @@ This project serves a dual purpose.  Not only is it to utilize my new React skil
 
 ## Installation
 
-This is a live site, no installation required, just follow the link the enjoy!
-
+This is a live site, no installation required, just follow the link the enjoy!<br>
+[Live Website]()<br>
+[Github Repo](https://github.com/madison-vega/react-portfolio)
 
 ## Usage
 
