@@ -20,8 +20,8 @@ This is a live site, no installation required, just follow the link the enjoy!
 
 ## Usage
 
+You will be able to navigate my portfolio via various links, as well as navigating to my project live site or repository.
 
-## Credits
 
 ## License
 
