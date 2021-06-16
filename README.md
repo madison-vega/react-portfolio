@@ -2,6 +2,8 @@
 
 ## Description
 
+This project serves a dual purpose.  Not only is it to utilize my new React skills, but also to display my portfolio.  It is important to show off my skills for potential employers viewing my portfolio.
+
 
 ## Table of Contents
 
@@ -12,6 +14,8 @@
 - [Questions](#questions)
 
 ## Installation
+
+This is a live site, no installation required, just follow the link the enjoy!
 
 
 ## Usage
