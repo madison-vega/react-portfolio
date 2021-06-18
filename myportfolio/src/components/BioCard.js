@@ -9,9 +9,19 @@ import Container from '@material-ui/core/Container';
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 400,
+    maxWidth: 500,
   },
 });
+const imageStyle = {
+  display: 'block',
+  width: '30vw',
+  transitionDuration: '0.3s',
+  height: '35vw',
+  marginLeft: 'auto',
+  marginRight: 'auto'
+
+}
+
 
 export default function BioCard() {
   const classes = useStyles();
@@ -21,6 +31,7 @@ export default function BioCard() {
       <CardActionArea>
         <Container>
         <CardMedia
+        style={imageStyle}
           component="img"
           alt="MyPhoto"
           height="135"
