@@ -18,7 +18,8 @@ const imageStyle = {
   transitionDuration: '0.3s',
   height: '33vw',
   marginLeft: 'auto',
-  marginRight: 'auto'
+  marginRight: 'auto',
+  marginTop: '2vw'
 
 }
 
