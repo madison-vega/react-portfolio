@@ -6,7 +6,6 @@ import IconButton from '@material-ui/core/IconButton';
 import MenuIcon from '@material-ui/icons/Menu';
 import { makeStyles } from '@material-ui/core/styles';
 
-
 const useStyles = makeStyles((theme) => ({
     root: {
         flexGrow: 1,
@@ -34,7 +33,7 @@ export default function SimpleMenu() {
     return (
         <div>
             <Button aria-controls="simple-menu" aria-haspopup="true" onClick={handleClick}>
-                <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
+                <IconButton edge="start" className={classes.menuButton} aria-label="menu">
                     <MenuIcon />
                 </IconButton>
             </Button>
