@@ -16,7 +16,7 @@ const imageStyle = {
   display: 'block',
   width: '30vw',
   transitionDuration: '0.3s',
-  height: '35vw',
+  height: '33vw',
   marginLeft: 'auto',
   marginRight: 'auto'
 
