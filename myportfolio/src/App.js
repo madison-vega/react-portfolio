@@ -1,13 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Header from './Header';
-import Footer from './Footer';
-import Projects from './Projects';
+import ButtonAppBar from './components/Header';
+// import Footer from './Footer';
+// import Projects from './Projects';
 
 function App() {
   return (
     <div className="App">
-      
+      <ButtonAppBar/>
     </div>
   );
 }
