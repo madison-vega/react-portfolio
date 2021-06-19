@@ -21,7 +21,7 @@ This is a live site, no installation required, just follow the link the enjoy!<b
 
 ## Usage
 
-You will be able to navigate my portfolio via various links, as well as navigating to my project live site or repository.
+This is a single page application, you will be able to view my bio, projects and contact info in one area.  I have a contact card on my page with links to Github, LinkedIn, my email, phone number, and also a link to download my resume.
 
 
 ## License
