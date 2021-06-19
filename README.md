@@ -21,7 +21,7 @@ This is a live site, no installation required, just follow the link the enjoy!<b
 
 ## Usage
 
-This is a single page application, you will be able to view my bio, projects and contact info in one area.  I have a contact card on my page with links to Github, LinkedIn, my email, phone number, and also a link to download my resume.
+This is a single page application, you will be able to view my bio, projects and contact info in one area.  I have a contact card on my page with links to Github, LinkedIn, my email, phone number, and also a link to download my resume.  There is also a collection of my projects for you to view as well, with various links to the live site if applicable and the Github repository.
 
 
 ## License
